@@ -5822,6 +5822,18 @@
           }
         }
       ]
+    },
+    {
+      "id": "gcorelabs-cdn-stats-datasource",
+      "type": "datasource",
+      "url": "https://github.com/G-Core/cdn-stats-datasource-plugin",
+      "versions": [
+        {
+          "version": "0.0.6",
+          "commit": "c3e16b116c21f70cb6615d1e17f404e3d8620037",
+          "url": "https://github.com/G-Core/cdn-stats-datasource-plugin"
+        }
+      ]
     }
   ]
 }
